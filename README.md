@@ -1,4 +1,4 @@
-Project Name: Internationnal-seller-growth-qa-automation-case-study
+Project Name: Internationnal-seller-growth-QA-automation-case-study
 
 Description:  
 A sample GitHub project demonstrating Quality Assurance automation for the International Seller Growth team at Amazon. This project includes UI, API, and DB test automation, AWS integration, bug tracking samples, and documentation for quality processes.
