@@ -1,0 +1,11 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: QA test environment for Seller Growth
+Resources:
+  QADB:
+    Type: AWS::RDS::DBInstance
+    Properties:
+      DBInstanceClass: db.t3.micro
+      Engine: postgres
+      MasterUsername: qa
+      MasterUserPassword: qa12345
+      AllocatedStorage: 20
