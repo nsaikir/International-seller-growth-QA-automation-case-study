@@ -1,0 +1,4 @@
+ID,Title,Status,Type,Priority,Owner
+TC01,Verify seller registration UI loads,Passed,UI,High,QA
+TC02,API returns 201 on valid POST,Passed,API,High,QA
+TC03,DB contains new seller record,Passed,DB,High,QA
